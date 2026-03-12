@@ -147,3 +147,4 @@ C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\Services\PaymentService\
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\Services\PaymentService\obj\Debug\net10.0\ref\PaymentService.dll
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\Services\PaymentService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\Services\PaymentService\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\Services\PaymentService\obj\Debug\net10.0\PaymentService.sourcelink.json

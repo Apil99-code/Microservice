@@ -147,3 +147,4 @@ C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\E-Commerce\obj\Debug\net
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\E-Commerce\obj\Debug\net10.0\ref\E-Commerce.dll
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\E-Commerce\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\E-Commerce\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\Acer\OneDrive\Desktop\Ims\DotNet\Microservices\E-Commerce\obj\Debug\net10.0\E-Commerce.sourcelink.json
